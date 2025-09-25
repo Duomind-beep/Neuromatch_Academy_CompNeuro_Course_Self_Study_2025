@@ -1,0 +1,2 @@
+# Neuromatch_Academy_CompNeuro_Course_Self_Study_2025
+Coursework and exercises from Neuromatch Academy's Computational Neuroscience Course
