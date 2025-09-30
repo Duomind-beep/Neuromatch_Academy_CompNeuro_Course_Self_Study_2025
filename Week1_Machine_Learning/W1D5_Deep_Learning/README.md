@@ -1,3 +1,4 @@
+## Overview
 This day introduces you to some of the applications of deep learning in neuroscience. 
 In the three tutorials, we apply deep learning principles in three key ways they are used in neuroscience: decoding models, encoding models, and representational similarity analysis.
 In each of the tutorials, we use the same neural activity, which was recorded from the visual cortex of awake mice while the mice were presented with oriented grating stimuli. 
